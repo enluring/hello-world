@@ -8,3 +8,5 @@ Dette blir gøy
 Dette er en ny endring på Readme - Det er en endring gjort i VSCodes
 
 Ny endring i git
+
+Ny endirng, denne gang så har jeg brukt bare VSCode 
