@@ -1,1 +1,2 @@
-En ny fil for å teste branch funksjoner
+
+Men nå ombestemmer jeg meg litt etter noen tester
