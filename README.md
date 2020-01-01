@@ -1,14 +1,9 @@
 # hello-world
 Dette er mitt første test på repo
 
+## Oppdatert Readme
+Denne er min første nr 2 overskrift inn mot release 0.2
 
-Dette er min første branch som jeg legger inn i min hellow-world eksempel
-Dette blir gøy
-
-Dette er en ny endring på Readme - Det er en endring gjort i VSCodes
-
-Ny endring i git
-
-Denne endringen er gjort på web
-
-Ok nå er det en ny endring fra VSCode
+## Releasenote
+* 0.1 - Orginal
+* 0.2 - Ny tekst fil
