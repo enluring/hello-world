@@ -1,1 +1,3 @@
 Dette er en fil som jeg har lagt inn
+
+Retter denne etter issue nr 1
